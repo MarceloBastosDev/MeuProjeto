@@ -1,0 +1,14 @@
+C:\Users\Marcelo\MeuProjeto\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\Marcelo\MeuProjeto\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\Marcelo\MeuProjeto\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\Marcelo\MeuProjeto\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\Marcelo\MeuProjeto\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\Marcelo\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
